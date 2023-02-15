@@ -1,0 +1,34 @@
+export const products=[
+    {
+        id:1,
+        img:"https://contents.mediadecathlon.com/p1830216/a5c3c27c1a1dab5cb7b295dbc369031a/p1830216.jpg",
+    },
+    {
+        id:2,
+        img:"https://m.media-amazon.com/images/I/61FjkEaXTNL._UL1500_.jpg",
+    },
+    {
+        id:3,
+        img:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=1000,height=1500,quality=75,format=auto/in-resources/6c57599f-2c43-4c82-806a-e07c3410f5d3/Images/ProductImages/Source/twirltr17071aw21mgnta_1.jpg",
+    },
+    {
+        id:4,
+        img:"https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0b%2F8f%2F0b8fc6bc3f1b4d6284225a3a148b9a387df1bf42.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    },
+    {
+        id:5,
+        img:"https://contents.mediadecathlon.com/p1830216/a5c3c27c1a1dab5cb7b295dbc369031a/p1830216.jpg",
+    },
+    {
+        id:6,
+        img:"https://m.media-amazon.com/images/I/61FjkEaXTNL._UL1500_.jpg",
+    },
+    {
+        id:7,
+        img:"https://storage.sg.content-cdn.io/cdn-cgi/image/width=1000,height=1500,quality=75,format=auto/in-resources/6c57599f-2c43-4c82-806a-e07c3410f5d3/Images/ProductImages/Source/twirltr17071aw21mgnta_1.jpg",
+    },
+    {
+        id:8,
+        img:"https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0b%2F8f%2F0b8fc6bc3f1b4d6284225a3a148b9a387df1bf42.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    },
+]
